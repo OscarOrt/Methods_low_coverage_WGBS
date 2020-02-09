@@ -4,7 +4,7 @@ This repository is intended to provide the code used for the bioinformatic analy
 
 The code is implemented in R (v3.4.4) and the following libraries:
 - ggplot2 3.0.0
-- dplyr
+- dplyr 0.8.1
 
 This reposity contains the scripts, the data used for the analysis and the genome used for upstream analysis.
 
